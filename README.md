@@ -19,6 +19,10 @@ The build should fail with
 The same code compiles with MapStruct 1.2.0.Final.
 
 It also compiles with MapStruct 1.3.0.Final if the `builder()` method is commented out in `MyEntity.java`.
+
+## Issue
+
+https://github.com/mapstruct/mapstruct/issues/1728
     
 ----
 
